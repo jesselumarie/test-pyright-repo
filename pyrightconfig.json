@@ -1,0 +1,10 @@
+{
+    "include": ["src"],
+    "exclude": [
+        "src/experimental"
+    ],
+    "ignore": ["src/experimental"],
+    "typeCheckingMode": "off",
+    "venvPath": "/Users/jlumarie/.virtualenvs"
+}
+
